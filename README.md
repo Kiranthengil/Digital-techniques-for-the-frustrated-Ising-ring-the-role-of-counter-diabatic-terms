@@ -307,17 +307,4 @@ Zenodo record:
 
 Replace the bracketed fields after the manuscript and Zenodo metadata are finalized.
 
-## Authors and contact
 
-- Kiran Thengil
-- Additional authors: add the complete author list in manuscript order
-- Contact: add the preferred corresponding-author email address
-
-## License
-
-Add the selected license files before publication. A common arrangement is:
-
-- Code: MIT License
-- Numerical data and documentation: Creative Commons Attribution 4.0 International (CC BY 4.0)
-
-The licenses selected in the Zenodo metadata should agree with the license files included in the archive.
