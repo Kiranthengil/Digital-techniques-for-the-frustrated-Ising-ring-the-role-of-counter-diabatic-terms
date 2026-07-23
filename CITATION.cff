@@ -1,0 +1,53 @@
+cff-version: 1.2.0
+message: "If you use this repository, please cite the associated Zenodo record and manuscript."
+title: "Data and plotting code for Digital techniques for the frustrated Ising ring: the role of counter-diabatic terms"
+type: software
+version: "1.0.0"
+date-released: "2026-07-24"
+license: MIT
+
+authors:
+  - given-names: "Kiran"
+    family-names: "Thengil"
+    affiliation: "SISSA"
+    orcid: "https://orcid.org/0000-0002-3169-8750"
+  
+  - given-names: "Vincenzo Roberto"
+    family-names: "Arezzo"
+    affiliation: "SISSA"
+
+  - given-names: "Giuseppe E."
+    family-names: "Santoro"
+    affiliation: "SISSA"
+    
+
+abstract: >
+  This repository contains the numerical data, Jupyter notebook, and
+  supporting files used to reproduce the figures presented in the
+  associated manuscript.
+
+keywords:
+  - quantum optimization
+  - QAOA
+  - digital quantum annealing
+  - counterdiabatic driving
+  - optimal control
+  - reproducibility
+
+repository-code: "https://github.com/kiranthengil/Digital-techniques-for-the-frustrated-Ising-ring-the-role-of-counter-diabatic-terms"
+
+# After the paper is available on arXiv or has a journal DOI, I may add:
+#
+# preferred-citation:
+#   type: article
+#   title: "[FULL PAPER TITLE]"
+#   authors:
+#     - given-names: "Kiran"
+#       family-names: "Thengil"
+#       affiliation: "SISSA"
+#   year: 2026
+#   identifiers:
+#     - type: other
+#       value: "arXiv:[ARXIV-ID]"
+#       description: "arXiv identifier"
+#   doi: "[JOURNAL DOI]"
