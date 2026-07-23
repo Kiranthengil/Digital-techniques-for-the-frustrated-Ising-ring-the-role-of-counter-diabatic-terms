@@ -307,4 +307,11 @@ Zenodo record:
 
 Replace the bracketed fields after the manuscript and Zenodo metadata are finalized.
 
+## License
 
+The source code and Jupyter notebooks are licensed under the MIT License.
+See `LICENSE-CODE`.
+
+The numerical data in `Data/` and the author-generated figures in
+`Final_Results/` are licensed under the Creative Commons Attribution
+4.0 International License. See `LICENSE-DATA.md`.
