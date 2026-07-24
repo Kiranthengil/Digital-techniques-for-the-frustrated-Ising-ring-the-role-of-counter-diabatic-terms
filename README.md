@@ -303,9 +303,8 @@ Associated manuscript:
 
 Zenodo record:
 
-> Kiran Thengil et al., "Data and plotting code for [Manuscript title]," Zenodo, [Year]. DOI: [Zenodo DOI].
+> Thengil, K., Arezzo, V. R.& Santoro, G. E. (2026). Data and plotting code for Digital techniques for the frustrated Ising ring: the role of counter-diabatic terms (Version v1.0.0) [Computer software]. Zenodo. https://doi.org/10.5281/zenodo.21525901
 
-Replace the bracketed fields after the manuscript and Zenodo metadata are finalized.
 
 ## License
 
